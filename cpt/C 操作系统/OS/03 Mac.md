@@ -1,4 +1,6 @@
 
+# Instance
+MacBook Air 2017 / mac Catalina 10.15.7
 
 
 # Mac专用软件
