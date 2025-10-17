@@ -1,6 +1,9 @@
 # GTK
 
-linux下c图形化编程之gtk+2.0简单学习 https://www.cnblogs.com/kingos/p/4531738.html
+GTK, 使用C++语言开发, 采用LGPL协议
+
+
+linux下c++图形化编程之gtk+2.0简单学习 https://www.cnblogs.com/kingos/p/4531738.html
 GTK官网 https://www.gtk.org
 
 ```bash
