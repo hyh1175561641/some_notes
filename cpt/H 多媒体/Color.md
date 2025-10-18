@@ -115,7 +115,6 @@ HSV是圆锥模型, 圆形边缘是H色调hue, 半径是S饱和度saturation, �
 V是指明度, 0是黑色, 100是白色
 实际应用: Win画图
 一般是, 数轴色调, 坐标是横轴纯度, 竖轴明度
-https://www.jyshare.com/front-end/868/
 
 
 HSL HSLA
