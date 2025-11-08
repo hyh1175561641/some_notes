@@ -40,286 +40,247 @@ https://helpx.adobe.com/cn/support/photoshop-china.html
 
 # 软件布局
 
+# Photoshop UI Scan
 
-# 菜单栏
 
-```md
-文件(F)
-  新建(N) Ctrl+N
-  打开(O)  Ctrl+O
-  在Bridge中浏览... Alt+Ctrl+O
-  打开为... Alt+Shift+Ctrl+O
-  打开为智能对象...
-  最近打开文件 >
-    0 car.psd
-    清除最近的文件列表
-  ---------------------------------
-  关闭(C)  Ctrl+W
-  关闭全部  Alt+Ctrl+W
-  关闭并转到Bridge... Shift+Ctrl+W
-  存储(S) Ctrl+S
-  存储为(A)... Shift+Ctrl+S
-  恢复(V) F12
-  ---------------------------------
-  导出(E) >
-    快速导出为PNG
-    导出为... Alt+Shift+Ctrl+W
-    导出首选项...
-    ---------------------------------
-    存储为Web所用格式(旧版)... Alt+Shift+Ctrl+S
-    ---------------------------------
-    画板至文件...
-    将画板导出到PDF...
-    将图层导出到文件...
-    将图层复合导出到PDF...
-    图层复合导出到文件...
-    颜色查找表...
-    ---------------------------------
-    数据组作为文件(D)...
+## Menu bar
+
+
+文件 File
+  新建 New
+  打开 Open
+  在Bridge中浏览... Browse in Bridge...
+  打开为... Open As...
+  打开为智能对象... Openas Smart Object...
+  最近打开文件 Open Recent
+    0 Untitle.psd
+    清除最近的文件列表 Clean Recent File List
+  关闭 Close
+  关闭全部 Close All
+  Close Others
+  关闭并转到Bridge... Close and Go to Bridge...
+  存储 Save
+  存储为... Save As...
+  Save a Copy...
+  恢复 Revert
+  导出 Export
+    快速导出为PNG Quick Export as PNG
+    导出为... Export As...
+    导出首选项... Export Preferences...
+    存储为Web所用格式(旧版)... Save for Web(Legacy)...
+    画板至文件... Artboards to Files...
+    将画板导出到PDF... Artboards to PDF...
+    将图层导出到文件... Layer Comps to Files...
+    将图层复合导出到PDF... Layer Comps to PDF...
+    图层复合导出到文件... Layer to Files...
+    颜色查找表... Color Lookup Tables...
+    数据组作为文件... Data Sets as Files...
     Zoomify...
-    路径到Illustrator...
-    渲染视频...
-  生成 >
-    图像资源
+    路径到Illustrator... Paths to Illustrator...
+    渲染视频... Render Video...
+  生成 Generate
+    图像资源 Image Assets
   共享
-  在Behance上共享(D)...
-  ---------------------------------
-  搜索Adobe Stock...
-  置入嵌入对象(L)
-  置入链接的智能对象(K)...
-  打包(G)...
-  ---------------------------------
-  自动(U) >
-    批处理(B)...
-    PDF演示文稿(P)...
-    创建快捷批处理(C)...
-    ---------------------------------
-    裁剪并拉直照片
-    ---------------------------------
-    联系表II...
-    ---------------------------------
+  在Behance上共享...
+  搜索Adobe Stock... Search Adobe Stock...
+  Search Adobe Express Templates...
+  置入嵌入对象... Place Embedded...
+  置入链接的智能对象... Place Linked...
+  打包... Package...
+  自动 Automate
+    批处理... Batch...
+    PDF演示文稿... PDF Presentation...
+    创建快捷批处理... Create Droplet...
+    裁剪并拉直照片 Crop and Straighten Photos
+    联系表II... Contact Sheet II...
     Photomerge...
-    合并到HDR Pro...
-    镜头校正...
-    条件模式更改...
-    限制图像...
-  脚本(R) >
-    图像处理器...
-    ---------------------------------
-    删除所有空图层
-    ---------------------------------
-    拼合所有蒙版
-    拼合所有图层效果
-    ---------------------------------
-    脚本事件管理器...
-    ---------------------------------
-    将文件载入堆栈...
-    统计...
-    载入多个DICOM文件...
-    ---------------------------------
-    浏览(B)...
-  导入(M) >
-    变量数据组(V)...
-    视频帧到图层(F)...
-    注释(N)...
-    WIA支持...
-  ---------------------------------
-  文件简介(F)... Alt+Shift+Ctrl+I
-  ---------------------------------
-  打印(P)... Ctrl+P
-  打印一份(Y)... Alt+Shift+Ctrl+P
-  ---------------------------------
-  退出(X) Ctrl+Q
+    合并到HDR Pro... Merge to HDR Pro...
+    镜头校正... Lens Correction...
+    条件模式更改... Conditional Mode Change...
+    限制图像... Fit Image...
+  脚本 Scripts
+    图像处理器... Image Processor...
+    删除所有空图层 Delete All Empty Layers
+    拼合所有蒙版 Flatten All Layer Effects
+    拼合所有图层效果 Flatten All Masks
+    脚本事件管理器... Script Events Manager...
+    将文件载入堆栈... Load Files into Stack...
+    统计... Statistics...
+    载入多个DICOM文件... Load Multiple DICOM Files...
+    浏览... Browse...
+  导入 Import
+    变量数据组... Variable Data Sets...
+    视频帧到图层... Video Frams to Layers...
+    注释... Notes...
+    WIA支持... WIA Support...
+  文件简介... File Info...
+  打印... Print...
+  打印一份... Print One Copy...
+  退出 Exit
 
-```
+编辑 Edit
+  还原画笔工具 Undo
+  重做 Redo
+  切换最终状态 Toggle Last State
+  渐隐 Fade...
+  剪切 Cut
+  拷贝 Copy
+  合并拷贝 Copy Merged
+  粘贴 Paste
+  选择性粘贴 Paste Special
+    粘贴且不使用任何格式 Paste without Formatting
+    原位粘贴 Paste in Place
+    贴入 Paste Into
+    外部粘贴 Paste Outside
+  清除 Clear
+  搜索 Search
+  拼写检查... Check Spelling...
+  查找和替换文本... Find and Replace Text...
+  填充... Fill...
+  描边... Stroke...
+  内容识别填充... Content-Aware Fill...
+  Generative Fill...
+  内容识别缩放 Content-Aware Scale
+  操控变形 Puppet Warp
+  透视变形 Perspective Warp
+  自由变换 Free Transform
+  变换 Transform
+    再次 Again
+    缩放 Scale
+    旋转 Rotate
+    斜切 Skew
+    扭曲 Distort
+    透视 Perspective
+    变形 Warp
+    Split Warp Horizontally
+    Split Warp Vertically
+    Split Warp Crosswise
+    Remove Warp Split
+    Convert warp anchor point
+    Toggle Guides
+    旋转180度 Rotate 180
+    顺时针旋转90度 Rotate 90 Clockwise
+    逆时针旋转90度 Rotate 90 Counter Clockwise
+    水平翻转 Flip Horizontal
+    垂直翻转 Flip Vertical
+  自动对齐图层... Auto-Align Layers...
+  自动混合图层... Auto-Blend Layers...
+  Sky Replacement...
+  定义画笔预设... Define Brush Preset...
+  定义图案... Define Pattern...
+  定义自定形状...Define Custom Shape...
+  清理 Purge
+    剪贴板 Clipboard
+    历史记录 Histories
+    全部 All
+    视频高速缓存 Video Cache
+  Adobe PDF 预设... Adobe PDF Presets...
+  预设 Presets
+    预设管理器... Preset Manager...
+    迁移预设 Migrate Presets
+    导出/导入预设... Export/Import Presets...
+  远程连接... Remote Connections...
+  颜色设置... Color Settings...
+  指定配置文件... Assign Prfile...
+  转换为配置文件... Convert to Profile...
+  键盘快捷键... Keyboard Shortcuts...
+  菜单... Menus...
+  工具栏... Toolbar...
+  首选项 Preferences
+    常规 General...
+    界面... Interface...
+    工作区... Workspace...
+    工具... Tools...
+    历史记录... History...
+    文件处理... File Handling...
+    导出... Export...
+    性能... Performance...
+    Image Processing...
+    暂存盘... Scratch Disks...
+    光标... Scratch Disks...
+    透明度与色域... Transparency & Gamut...
+    单位与标尺... Units & Rulers...
+    参考线、网格和切片... Guides, Grid & Slices...
+    增效工具 Plugins
+    文字 Type
+    3D 3D
+    增强型控件... Enhanced Controls...
+    技术预览... Technology Previews...
+    Camera Raw... Camera Raw...
 
-```md
-编辑(E)
-  还原画笔工具(O) Ctrl+Z
-  重做(O) Shift+Ctrl+Z
-  切换最终状态 Alt+Ctrl+Z
-  ---------------------------------
-  渐隐(D)... Shift+Ctrl+F
-  ---------------------------------
-  剪切(T) Ctrl+X
-  拷贝(C) Ctrl+C
-  合并拷贝(Y) Shift+Ctrl+C
-  粘贴(P) Ctrl+V
-  选择性粘贴(I) >
-    粘贴且不使用任何格式(M)
-    原位粘贴(P) Shift+Ctrl+V
-    贴入(I) Alt+Shift+Ctrl+V
-    外部粘贴(O)
-  清除(E)
-  ---------------------------------
-  搜索 Ctrl+F
-  拼写检查(H)...
-  查找和替换文本(X)...
-  ---------------------------------
-  填充(L)... Shift+F5
-  描边(S)...
-  内容识别填充...
-  ---------------------------------
-  内容识别缩放 Alt+Shift+Ctrl+C
-  操控变形
-  透视变形
-  自由变换(F) Ctrl+T
-  变换(A) >
-    再次(A) Shift+Ctrl+T
-    ---------------------------------
-    缩放(S)
-    旋转(R)
-    斜切(K)
-    扭曲(D)
-    透视(P)
-    变形(W)
-    ---------------------------------
-    旋转180度(1)
-    顺时针旋转90度(9)
-    逆时针旋转90度(0)
-    ---------------------------------
-    水平翻转(H)
-    垂直翻转(V)
-  自动对齐图层...
-  自动混合图层...
-  ---------------------------------
-  定义画笔预设(B)...
-  定义图案...
-  定义自定形状...
-  ---------------------------------
-  清理(R) >
-    剪贴板(C)
-    历史记录(H)
-    全部(A)
-    视频高速缓存(V)
-  ---------------------------------
-  Adobe PDF 预设...
-  预设 >
-    预设管理器(M)...
-    迁移预设
-    导出/导入预设...
-  远程连接...
-  ---------------------------------
-  颜色设置(G)... Shift+Ctrl+K
-  指定配置文件...
-  转换为配置文件(V)...
-  ---------------------------------
-  键盘快捷键... Alt+Shift+Ctrl+K
-  菜单(U)... Alt+Shift+Ctrl+M
-  工具栏...
-  首选项(N) >
-    常规(G) Ctrl+K
-    ---------------------------------
-    界面(I)...
-    工作区(K)...
-    工具(O)...
-    历史记录(H)...
-    文件处理(F)...
-    导出...
-    性能(E)...
-    暂存盘...
-    光标(C)...
-    透明度与色域(T)...
-    单位与标尺(U)...
-    参考线、网格和切片(S)...
-    增效工具(P)
-    文字(Y)
-    3D(3)
-    增强型控件...
-    技术预览(J)...
-    ---------------------------------
-    Camera Raw(W)...
+图像 Image
+  模式 Mode
+    位图 Bitmap
+    灰度 Grayscale
+    双色调 Duotone
+    索引颜色 Indexed Color
+    RGB颜色 RGB Color
+    CMYK颜色 CMYK Color
+    Lab颜色 Lab Color
+    多通道 Multichannel
+    8位/通道 8 Bits/Channel
+    16位/通道 16 Bits/Channel
+    32位/通道 32 Bits/Channel
+    颜色表 Color Table
+  调整 Adjustments
+    亮度/对比度 Brightness/Contrast
+    色阶 Levels
+    曲线 Curves
+    曝光度 Exposure
+    自然饱和度 Vibrance
+    色相饱和度 Hue/Saturation
+    色彩平衡 Color Balance
+    黑白 Black & White
+    照片滤镜 Photo Filter
+    通道混合器 Channel Mixer
+    颜色查找 Color Lookup
+    反相 Invert
+    色调分离 Posterize
+    阈值 Threshold
+    渐变映射 Gradient Map
+    可选颜色 Selective Color
+    阴影/高光 Shadows/Highlights
+    HDR色调 HDR Toning
+    去色 Desaturate
+    匹配颜色 Match Color
+    替换颜色 Replace Color
+    色调均化 Equalize
+  自动色调 Auto Tone
+  自动对比度 Auto Contrast
+  自动颜色 Auto Color
+  图像大小 Image Size...
+  画布大小 Canvas Size...
+  图像旋转 Image Rotation
+    180度  180
+    顺时针90度 90 Clockwise
+    逆时针90度 90 Counter Clockwise
+    任意角度 Arbitrary
+    水平翻转画布 Flip Canvas Horizontal
+    垂直翻转画布 Flip Canvas Vertical
+  裁剪 Crop
+  裁切 Trim
+  显示全部 Reveal All
+  复制 Duplicate
+  应用图像 Apply Image
+  计算 Calculations
+  变量 Variables
+    定义 Define
+    数据组 Data Sets
+  应用数据组 Apply Data Set
+  陷印 Trap
+  分析 Analysis
+    设置测量比例 Set Measurement Scale
+      默认值 Default
+      自定义 Custom
+    选择数据点 Select Data Points
+      自定义 Custom
+    记录测量 Record Measurements
+    标尺工具 Ruler Tool
+    计数工具 Count Tool
+    置入比例标记 Place Scale Marker
 
-```
 
-```md
-图像(I) >
-  模式(M)
-    位图(B)
-    灰度(G)
-    双色调(D)
-    索引颜色(I)
-    RGB颜色(R)
-    CMYK颜色(C)
-    Lab颜色(L)
-    多通道(M)
-    ---------------------------------
-    8位/通道(A)
-    16位/通道(N)
-    32位/通道(H)
-  ---------------------------------
-    颜色表(T)
-  调整(J)
-    亮度/对比度(C)
-    色阶(L) Ctrl+L
-    曲线(U) Ctrl+M
-    曝光度(E)
-    ---------------------------------
-    自然饱和度(V)
-    色相饱和度(H) Ctrl+U
-    色彩平衡(B) Ctrl+B
-    黑白(K) Alt+Shift+Ctrl+B
-    照片滤镜(F)
-    通道混合器(X)
-    颜色查找
-    ---------------------------------
-    反相(I) Ctrl+I
-    色调分离(P)
-    阈值(T)
-    渐变映射(G)
-    可选颜色(S)
-    ---------------------------------
-    阴影/高光(W)
-    HDR色调
-    ---------------------------------
-    去色(D) Shift+Ctrl+U
-    匹配颜色(M)
-    替换颜色(R)
-    色调均化(Q)
-  ---------------------------------
-  自动色调(N) Shift+Ctrl+L
-  自动对比度(U) Alt+Shift+Ctrl+L
-  自动颜色(O) Shift+Ctrl+B
-  ---------------------------------
-  图像大小(I) Alt+Ctrl+I
-  画布大小(S) Alt+Ctrl+C
-  图像旋转(G) >
-    180度(1)
-    顺时针90度(9)
-    逆时针90度(0)
-    任意角度(A)
-    水平翻转画布(H)
-    垂直翻转画布(V)
-  裁剪(P)
-  裁切(R)
-  显示全部(V)
-  ---------------------------------
-  复制(D)
-  应用图像(Y)
-  计算(C)
-  ---------------------------------
-  变量(B) >
-    定义(D)
-    数据组(S)
-  应用数据组(L)
-  ---------------------------------
-  陷印(L)
-  ---------------------------------
-  分析(A) >
-    设置测量比例(S) >
-      默认值(D)
-      自定义
-    选择数据点(D) >
-      自定义
-    记录测量(M)
-    标尺工具(R)
-    计数工具(C)
-    置入比例标记(P)
-
-```
-
-```md
-图层(L)
+图层 Layer
   新建(N) >
     图层(L) Shift+Ctrl+N
     图层背景(B)
@@ -330,7 +291,7 @@ https://helpx.adobe.com/cn/support/photoshop-china.html
     来自图层的画板
     来自图层的画框
     转换为图框
-    ---------------------------------
+    
     通过拷贝的图层 Ctrl+J
     通过剪切的图层 Shift+Ctrl+j
   复制CSS
@@ -339,14 +300,14 @@ https://helpx.adobe.com/cn/support/photoshop-china.html
   删除 >
     图层(L)
     隐藏图层(H)
-  ---------------------------------
+  
   快速导出为PNG Shift+Ctrl+'
   导出为 Alt+Shift+Ctrl+'
-  ---------------------------------
+  
   重命名图层
   图层样式(Y) >
     混合选项(N)
-    ---------------------------------
+    
     斜面和浮雕(B)
     描边(K)
     内阴影(I)
@@ -357,17 +318,17 @@ https://helpx.adobe.com/cn/support/photoshop-china.html
     图案叠加(Y)
     外发光(O)
     投影(D)
-    ---------------------------------
+    
     拷贝图层样式(C)
     粘贴图层样式(P)
     清除图层样式(A)
-    ---------------------------------
+    
     全局光(L)
     创建图层(R)
     隐藏所有效果(H)
     缩放效果(F)
   智能滤镜 >
-  ---------------------------------
+  
   新建填充图层(W) >
     纯色(O)
     渐变(G)
@@ -377,7 +338,7 @@ https://helpx.adobe.com/cn/support/photoshop-china.html
     色阶(L)
     曲线(V)
     曝光度(E)
-    ---------------------------------
+    
     自然饱和度(R)
     色相饱和度(H)
     色彩平衡(B)
@@ -385,104 +346,97 @@ https://helpx.adobe.com/cn/support/photoshop-china.html
     照片滤镜(F)
     通道混合器(X)
     颜色查找
-    ---------------------------------
+    
     反相(I)
     色调分离(P)
     阈值(T)
     渐变映射(M)
     可选颜色(S)
   图层内容选项(O)
-  ---------------------------------
+  
   图层蒙版(M) >
     显示全部(R)
     隐藏全部(H)
     显示选区(V)
     隐藏选区(D)
-    从透明区域(T)
-    ---------------------------------
-    删除(E)
-    应用(A)
-    ---------------------------------
-    启用(B)
-    链接(L)
-  矢量蒙版(V) >
-    显示全部(R)
-    隐藏全部(H)
-    当前路径(U)
-    删除(D)
-    启用(B)
-    链接(L)
-  创建剪贴蒙版(C) Alt+Ctrl+G
-  ---------------------------------
-  智能对象 >
-  视频图层 >
-  栅格化(Z) >
-  ---------------------------------
-  新建基于图层的切片(B)
-  ---------------------------------
-  图层编组(G) Ctrl+G
-  取消图层编组(U) Shift+Ctrl+G
-  隐藏图层(R) Ctrl+,
-  ---------------------------------
-  排列(A) >
-  合并形状(H) >
-  ---------------------------------
-  对齐(I) >
-  分布(T) >
-  ---------------------------------
-  锁定图层(L) Ctrl+/
-  ---------------------------------
-  链接图层(K)
-  选择链接图层(S)
-  ---------------------------------
-  向下合并(E) Ctrl+E
-  合并可见图层 Shift+Ctrl+E
-  拼合图像(F)
-  ---------------------------------
+    从透明区域
+    
+    删除
+    应用
+    
+    启用
+    链接
+  矢量蒙版
+    显示全部
+    隐藏全部
+    当前路径
+    删除
+    启用
+    链接
+  创建剪贴蒙版
+  
+  智能对象
+  视频图层
+  栅格化
+  
+  新建基于图层的切片
+  
+  图层编组
+  取消图层编组
+  隐藏图层
+  
+  排列
+  合并形状
+  
+  对齐
+  分布
+  
+  锁定图层
+  
+  链接图层
+  选择链接图层
+  
+  向下合并
+  合并可见图层
+  拼合图像
+  
   修边 >
 
-```
 
-```md
-文字(Y)
+文字 Type
 
 
-```
-
-```md
-选择(S)
 
 
-```
-
-```md
-滤镜(T)
-
-```
-
-```md
-3D(D)
-
-```
-
-```md
-视图(V)
-
-```
-
-```md
-窗口(W)
-
-```
-
-```md
-帮助(H)
+选择 Select
 
 
-```
+
+滤镜 Filter
 
 
-窗口,复位基本功能
+
+
+3D 3D
+
+
+
+
+视图 View
+
+
+Plugins
+
+窗口 Window
+
+
+
+
+帮助 Help
+
+
+
+## 窗口,复位基本功能
 
 
 选项栏:随着工具选择而变化
