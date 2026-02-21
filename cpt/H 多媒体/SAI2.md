@@ -5,7 +5,13 @@
 
 
 
+SAI2
+https://baike.baidu.com/item/sai/1332565
+https://www.systemax.jp/en/sai/
+https://www.systemax.jp/en/sai/devdept.html
 
+
+https://zhuanlan.zhihu.com/p/703286873
 
 
 
